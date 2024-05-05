@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Zo\Codes\VS Projects\SelfDiagnosisSystem\Source.cpp(187,1): warning C4715: 'Adding_Disease': not all control paths return a value
+  SelfDiagnosisSystem.vcxproj -> D:\Zo\Codes\VS Projects\SelfDiagnosisSystem\x64\Debug\SelfDiagnosisSystem.exe
